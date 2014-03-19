@@ -42,7 +42,7 @@ public class Maze {
                      return startC;
          
      }
-    public boolean SolveMaze(int x, int y){
+    public boolean SolveMaze(int x, int y){//this is a test of git
         System.out.println("poo");
         if(x<0||y<0||x>rows||y>=columns){
             System.out.println("1");
